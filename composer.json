@@ -1,0 +1,15 @@
+{
+	"name":              "uecode/connection-manager",
+	"autoload":          {
+		"psr-0": {
+			"": "src/"
+		}
+	},
+	"require":           {
+		"php":           ">=5.3.3",
+		"doctrine/dbal": "2.4.*@dev",
+		"symfony/yaml":  "2.3.*@dev"
+
+	},
+	"minimum-stability": "dev"
+}

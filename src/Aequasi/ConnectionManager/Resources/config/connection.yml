@@ -1,0 +1,6 @@
+#connections:
+#    classdb:
+#        class: Aequasi\ConnectionManager\Connection\ClassDb
+#    quickdb:
+#        host: quickdb.example.com
+#        dbname: quickdb
