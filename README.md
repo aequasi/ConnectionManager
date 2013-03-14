@@ -20,7 +20,7 @@ composer require aequasi/connection-manager dev-master
 In your php file, add this at the top, changing the path to wherever it belongs
 ```php
 // If you arent using composer in your global project, make sure you use the autoloader
-require_once( __DIR__ . '/ConnectionManager/vendor/autoload.php" );
+require_once( __DIR__ . '/ConnectionManager/vendor/autoload.php' );
 use Aequasi\ConnectionManager;
 
 ```
